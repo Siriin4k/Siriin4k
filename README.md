@@ -1,21 +1,138 @@
-# 💫 About Me:
-Hi, I am Shreenivas Jagdale(AKA Siri and Siriin4k)<br>A Computer Science student with a knack for making things work (and look good).<br>My main quest involves cybersecurity, especially network defense and building cool AI/ML projects.<br>But I also switch gears to become a video editor and designer, creating awesome motion graphics and fast paced edits.<br>Currently working on Archyve.......
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0030,75:0a1040,100:0d1117&height=200&section=header&text=Shreenivas%20Jagdale&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Blue%20Team%20%7C%20SOC%20Analyst%20in%20Training&descAlignY=58&descSize=18&descColor=888888" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=5C7AFF&center=true&vCenter=true&width=680&lines=Final+year+CS+%E2%80%94+specializing+in+cybersecurity.;Building+real+labs%2C+not+just+studying+slides.;Blue+team+focused.+Actively+seeking+SOC+roles." alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/call.me.siri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siriin4k) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shreenivasjagdale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreepj7531@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Siriin4k&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Siriin4k&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siriin4k&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <a href="https://linkedin.com/in/siriin4k">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Siriin4k">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/siriin4k">
+    <img src="https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  </a>
+  <a href="https://siriin4k.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-5C7AFF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:shreepj7531@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Siriin4k&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+```yaml
+name        : Shreenivas Jagdale  (Siri / Siriin4k)
+role        : Final Year BSc Computer Science
+focus       : Cybersecurity — Blue Team · Threat Detection · Incident Response
+tools       : Wazuh · Splunk · Wireshark · Sysmon · TryHackMe
+frameworks  : MITRE ATT&CK · NIST IR · Cyber Kill Chain
+goal        : Junior SOC Analyst / Security Analyst
+status      : Actively seeking opportunities · Open to connect
+```
+
+---
+
+## Certifications
+
+<table align="center">
+<tr>
+
+<td align="center" width="210" valign="top" style="padding: 18px;">
+<img src="https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<br><br>
+<strong>Cisco NetAcad</strong><br>
+<code>Introduction to Cybersecurity</code>
+<br><br>
+<img src="https://img.shields.io/badge/Threat_Landscape-2a2a3a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Network_Defense-2a2a3a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security_Principles-2a2a3a?style=flat-square"/>
+</td>
+
+<td width="20"></td>
+
+<td align="center" width="210" valign="top" style="padding: 18px;">
+<img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<br><br>
+<strong>Cisco NetAcad</strong><br>
+<code>Networking Basics</code>
+<br><br>
+<img src="https://img.shields.io/badge/TCP/IP-2a2a3a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Routing_%26_Switching-2a2a3a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Network_Protocols-2a2a3a?style=flat-square"/>
+</td>
+
+<td width="20"></td>
+
+<td align="center" width="210" valign="top" style="padding: 18px;">
+<img src="https://img.shields.io/badge/TryHackMe-SAL1_In_Progress-111111?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+<br><br>
+<strong>TryHackMe</strong><br>
+<code>Security Analyst Level 1</code>
+<br><br>
+<img src="https://img.shields.io/badge/SIEM_%26_SOAR-2a2a3a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Log_Analysis-2a2a3a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Alert_Triage-2a2a3a?style=flat-square"/>
+<br><br>
+<a href="https://tryhackme.com/p/siriin4k"><img src="https://img.shields.io/badge/View_Profile-C11111?style=flat-square&logo=tryhackme&logoColor=white"/></a>
+</td>
+
+<td width="20"></td>
+
+<td align="center" width="210" valign="top" style="padding: 18px;">
+<img src="https://img.shields.io/badge/CompTIA-Security%2B_Pursuing-5C7AFF?style=for-the-badge&logo=comptia&logoColor=white"/>
+<br><br>
+<strong>CompTIA</strong><br>
+<code>Security+ SY0-701</code>
+<br><br>
+<img src="https://img.shields.io/badge/Network_Security-2a2a3a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cryptography-2a2a3a?style=flat-square"/>
+<img src="https://img.shields.io/badge/SecOps-2a2a3a?style=flat-square"/>
+<br><br>
+<img src="https://img.shields.io/badge/Status-In_Progress-7C3AED?style=flat-square"/>
+</td>
+
+</tr>
+</table>
+
+---
+
+## Currently Working On
+
+| Area | Priority | Status |
+|------|----------|--------|
+| SOC Home Lab — Endpoint Monitoring Phase | ⬛ High | `In Progress` |
+| pFsense Network Firewall Lab | ⬛ High | `In Progress` |
+| TryHackMe SAL1 Certification Path | 🔲 High | `In Progress` |
+| CompTIA Security+ (SY0-701) | ⬛ Medium | `Studying` |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siriin4k&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+  &nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Siriin4k&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siriin4k&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0030,75:0a1040,100:0d1117&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <sub>Open to Junior SOC Analyst &amp; Security Internship opportunities.</sub>
+</p>
