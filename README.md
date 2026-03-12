@@ -109,8 +109,8 @@ status      : Actively seeking opportunities · Open to connect
 |------|----------|--------|
 | SOC Home Lab — Endpoint Monitoring Phase | ⬛ High | `In Progress` |
 | pFsense Network Firewall Lab | ⬛ High | `In Progress` |
-| TryHackMe SAL1 Certification Path | 🔲 High | `In Progress` |
-| CompTIA Security+ (SY0-701) | ⬛ Medium | `Studying` |
+| TryHackMe SAL1 Certification Path | 🔲 Medium  | `In Progress` |
+| CompTIA Security+ (SY0-701) | ⬛ High | `Studying` |
 
 ---
 
