@@ -116,7 +116,6 @@ status      : Actively seeking opportunities · Open to connect
 ---
 
 ## GitHub Stats
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6666323" style='border:none;'></iframe>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Siriin4k&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
