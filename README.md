@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0030,75:0a1040,100:0d1117&height=200&section=header&text=Shreenivas%20Jagdale&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Blue%20Team%20%7C%20SOC%20Analyst%20in%20Training&descAlignY=58&descSize=18&descColor=888888" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d3480,75:1040a0,100:0d1117&height=200&section=header&text=Shreenivas%20Jagdale&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Blue%20Team%20%7C%20SOC%20Analyst%20in%20Training&descAlignY=58&descSize=18&descColor=888888" />
 </p>
 
 <p align="center">
@@ -32,8 +32,7 @@
 name        : Shreenivas Jagdale  (Siri / Siriin4k)
 role        : Final Year BSc Computer Science
 focus       : Cybersecurity — Blue Team · Threat Detection · Incident Response
-tools       : Wazuh · Splunk · Wireshark · Sysmon · TryHackMe
-frameworks  : MITRE ATT&CK · NIST IR · Cyber Kill Chain
+tools       : Wazuh · Splunk · Wireshark · Sysmon
 goal        : Junior SOC Analyst / Security Analyst
 status      : Actively seeking opportunities · Open to connect
 ```
@@ -81,7 +80,7 @@ status      : Actively seeking opportunities · Open to connect
 <img src="https://img.shields.io/badge/Log_Analysis-2a2a3a?style=flat-square"/>
 <img src="https://img.shields.io/badge/Alert_Triage-2a2a3a?style=flat-square"/>
 <br><br>
-<a href="https://tryhackme.com/p/siriin4k"><img src="https://img.shields.io/badge/View_Profile-C11111?style=flat-square&logo=tryhackme&logoColor=white"/></a>
+<a href="https://tryhackme.com/p/Siriin4k"><img src="https://img.shields.io/badge/View_Profile-C11111?style=flat-square&logo=tryhackme&logoColor=white"/></a>
 </td>
 
 <td width="20"></td>
