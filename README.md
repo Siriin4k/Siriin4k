@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=5C7AFF&center=true&vCenter=true&width=680&lines=Final+year+CS+%E2%80%94+specializing+in+cybersecurity.;Building+real+labs%2C+not+just+studying+slides.;Blue+team+focused.+Actively+seeking+SOC+roles." alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="180">
 </p>
 
 <p align="center">
