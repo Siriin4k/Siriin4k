@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
-  <a href="https://medium.com/@YOUR_USERNAME">
+  <a href="https://siriin4k.medium.com/">
     <img src="https://img.shields.io/badge/Medium-121212?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 
