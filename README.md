@@ -124,20 +124,6 @@ Instead of just earning certifications, I focus on **building projects that simu
 
 ---
 
-# ✍️ Latest Blogs
-
-Coming Soon...
-
-- Building my SOC Home Lab from Scratch
-- My SC-900 Experience
-- Preparing for SC-200
-- Why My Wazuh Agent Wouldn't Connect
-- Understanding TCP SYN Flood Detection
-- Splunk Notes
-- Detection Engineering Basics
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
